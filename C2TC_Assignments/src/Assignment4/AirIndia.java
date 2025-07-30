@@ -1,4 +1,4 @@
-package Assignment6;
+package Assignment4;
 
 public class AirIndia implements Airfare {
 	private int hours;
